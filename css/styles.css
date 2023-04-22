@@ -381,6 +381,10 @@ body {
   color: var(--hover-text-color);
 }
 
+.Sveta {
+  overflow: hidden;
+}
+
 /* section hero */
 
 .hero {
@@ -1221,7 +1225,7 @@ body {
   transform: translate(-50%, -50%);
 
   padding: 24px 16px;
-  width: 90%;
+  width: 392px;
   min-height: 586px;
 
   background-color: var(--primary-bg-color);
