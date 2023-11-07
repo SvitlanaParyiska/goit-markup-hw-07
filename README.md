@@ -1,1 +1,3 @@
-# goit-markup-hw-07
+# Project Web-Studio
+
+![GitHub ReadMe](./images/readme.PNG)
